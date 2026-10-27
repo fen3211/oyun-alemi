@@ -1,0 +1,8 @@
+node_modules/
+dist/
+artifacts/
+test-results/
+playwright-report/
+.brainstorm/
+*.log
+.DS_Store
